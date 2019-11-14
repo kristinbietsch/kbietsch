@@ -1,0 +1,176 @@
+h1 {
+  font-family: 'Montserrat-Black', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-weight: 500;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h4 {
+  font-family: 'Montserrat-Bold', sans-serif
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.body-section {
+  padding: 3% 15% 7% 2%;
+}
+
+/* Social icons */
+.social-icon {
+  margin: 10px;
+}
+
+/* Sections */
+.section-dark {
+  background-color: #99d8d0;
+  color: #fff;
+}
+
+.section-light {
+  color: #70416d;
+  background-color: #e4f2f0;
+}
+
+/* Header section on teaching page */
+.header {
+  padding: 3%;
+}
+
+/* About section */
+#about {
+  padding: 3% 15% 3% 3%;
+}
+
+#profile {
+  text-align: center;
+  margin: 7px 15px;
+}
+
+.about-text {
+  padding-left: 7%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  color: #fff;
+  font-size: 1.2rem;
+  font-family: 'Montserrat';
+  font-weight: 100;
+}
+
+.nav-link:hover {
+  color: #70416d;
+}
+
+.network-icon {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+}
+
+.icon {
+    margin: 10px;
+}
+
+.fa-2x {
+  color: #fff;
+}
+
+.fa-2x:hover {
+  color: #70416d;
+}
+
+/* Skills section */
+
+#skills {
+  text-align: center;
+}
+
+.skill-icon {
+  margin: 10px;
+}
+
+/* Experience Section */
+#experience {
+
+}
+
+.job-card {
+  margin: 5% 0% 5% 7%;
+  width: 30rem;
+}
+
+.exp-title {
+  font-size: .9rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.exp-company {
+  font-size: .9rem;
+  line-height: 1.5;
+}
+
+.middot-divider {
+  font-weight: 400;
+}
+
+/* Projects Section */
+#projects {
+
+}
+
+.carousel-inner img {
+  margin: auto;
+  padding-left: 13%
+  text-align:
+}
+
+.carousel-item {
+  height: 20rem;
+  text-align: center;
+  width: 50rem;
+}
+
+/* Publications Section */
+#publications {
+
+}
+
+/* Teaching Section */
+#teaching {
+
+}
+
+.teaching-card {
+  
+}
+
+/* Footer Section */
+#footer {
+  padding: 3% 15% 7% 15%;
+  text-align: center;
+}
+
+.social-icons fa-2x {
+  background-color: #70416d;
+  padding: 3%;
+}
